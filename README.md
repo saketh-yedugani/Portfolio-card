@@ -1,16 +1,28 @@
-# React + Vite
+# 🚀 Portfolio Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **portfolio card application** designed to showcase personal profile, skills, and social links in a clean and minimal interface.
 
-Currently, two official plugins are available:
+This project is ideal for developers who want a lightweight, visually appealing way to present themselves online.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎨 Clean and minimal UI design
+- 📱 Fully responsive (mobile friendly)
+- 🔗 Social media links integration
+- 🧑‍💻 Developer profile display
+- ⚡ Fast and lightweight frontend
+- ♻️ Reusable component-based structure
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- (Optional: Tailwind CSS / CSS Modules if you used it)
+- Vite (for fast development build)
+
+
